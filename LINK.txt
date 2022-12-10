@@ -1,0 +1,6 @@
+Bom, eu sempre gostei de dinossauros e me dediquei bastante a esse projeto, varia coisas eu poderia melhorar nele, mas gostei do resultado final.Eu utilizei %, visando a responsividade para maior parte de dispositivos.Nesse projeto eu utilizei o tema Biosyn que é uma instituição que visa preservar a vida dos dinossauros. 
+
+
+Link:
+
+https://biosyn-ong-dinorex.netlify.app/home
